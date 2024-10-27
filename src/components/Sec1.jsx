@@ -17,7 +17,7 @@ function Sec1() {
                 <div className='w-[100%] absolute  sm:top-[150px] sm:left-[75px] sm:grid sm:grid-cols-[60%_40%] sm:gap-[10px] flex flex-col text-[white] z-1 p-[60px_24px] sm:text-start text-cente ' >
                     <div className='w-[100%] text-center sm:text-start my-4'>
                         <h1 className='w-[750px] font-bold text-[40px] max-sm:w-[100%]'>STOCK SCREENING SIMPLIFIED!</h1>
-                        <p className='w-[600px] mx-auto sm:mx-0 text-[20px] my-5'>Find Winning Stock Faster with Nifty Trader's Advanced Stock Screening Tool</p>
+                        <p className='w-[600px] mx-auto sm:mx-0 text-[20px] my-5'>Find Winning Stock Faster with Nifty Traders Advanced Stock Screening Tool</p>
                         <button className='bg-[#13A8D7] p-[14px_30px] rounded-[4px] text-[20px] hover:text-[#13A8D7] hover:bg-transparent hover:border-[2px] hover:border-[#13A8D7] font-semibold my-5'>Free Trial</button>
                         <div className='absolute sm:hidden top-[50%] left-[50%] -translate-y-2/4 -translate-x-2/4'>
                             <Image src={button}/>

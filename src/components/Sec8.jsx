@@ -19,7 +19,7 @@ function Sec8() {
                     <div className=' z-5 w-[600px] mx-auto absolute left-[500px] sm:hidden   my-20 text-center ' >
                         <h1 className='text-[35px] text-center'>Screening Like a Pro with </h1>
                         <h1 className='text-[35px] text-center font-semibold'>Nifty Trader</h1>
-                        <h2 className='text-[#999999] text-[20px] text-center'>Stop wasting time and start winning! Get access to  Nifty Trader's Stock Screeners today!</h2>
+                        <h2 className='text-[#999999] text-[20px] text-center'>Stop wasting time and start winning! Get access to  Nifty Traders Stock Screeners today!</h2>
                         <button className='bg-[#4399EB] sm:w-[290px] w-[350px] p-[20px_60px] text-[white] text-[20px] font-bold my-5 rounded-[4px]' >Start Free Trial Now</button>
                    
                     </div>
@@ -29,7 +29,7 @@ function Sec8() {
                     <div className=' w-[600px] mx-auto max-sm:hidden  my-20 text-center' >
                         <h1 className='text-[35px] text-center'>Screening Like a Pro with </h1>
                         <h1 className='text-[35px] text-center font-semibold'>Nifty Trader</h1>
-                        <h2 className='text-[#999999] text-[20px] text-center'>Stop wasting time and start winning! Get access to  Nifty Trader's Stock Screeners today!</h2>
+                        <h2 className='text-[#999999] text-[20px] text-center'>Stop wasting time and start winning! Get access to  Nifty Traders Stock Screeners today!</h2>
                         <button className='bg-[#4399EB] sm:w-[290px] w-[10px] p-[20px_50px] text-[white] text-[20px] font-bold my-5 rounded-[4px]' >Start Free Trial Now</button>
                     </div>
                 </div>

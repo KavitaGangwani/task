@@ -21,7 +21,7 @@ function Accordian() {
             <div className='sm:w-[80%] w-[90%]  mx-auto'>
                 {ques.map((v, i) => {
                     return (
-                        <Accordianitem v={v} />
+                        <Accordianitem key ={v.id} {...v} v={v} />
                     )
 
 
