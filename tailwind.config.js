@@ -11,6 +11,13 @@ module.exports = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      backgroundImage: {
+        'section4': "url('./../../public/image127.png')",
+        'section1': "url('./../../public/Ellipse91.png')"
+        
+      },
+      
+      
     },
   },
   plugins: [],
