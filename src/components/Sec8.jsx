@@ -1,9 +1,9 @@
 'use client'
 import React from 'react'
 import Image from "next/image";
-import img from "./../../public/ellipse66.png"
-import img1 from "./../../public/vector13.png"
-import img2 from "./../../public/vector11.png"
+import img from "./../../public//Ellipse66.png"
+import img1 from "./../../public//Vector13.png"
+import img2 from "./../../public//Vector11.png"
 import img3 from "./../../public/Group2541.png"
 
 function Sec8() {

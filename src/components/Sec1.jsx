@@ -3,7 +3,8 @@ import React from 'react'
 import Image from "next/image";
 import Navbar from './Navbar';
 import img from "./../../public/image30.png"
-import button from "./../../public/buttons.png"
+import buttons from './../../public/Buttons.png'; 
+
 
 function Sec1() {
     return (
@@ -20,7 +21,7 @@ function Sec1() {
                         <p className='w-[600px] mx-auto sm:mx-0 text-[20px] my-5'>Find Winning Stock Faster with Nifty Traders Advanced Stock Screening Tool</p>
                         <button className='bg-[#13A8D7] p-[14px_30px] rounded-[4px] text-[20px] hover:text-[#13A8D7] hover:bg-transparent hover:border-[2px] hover:border-[#13A8D7] font-semibold my-5'>Free Trial</button>
                         <div className='absolute sm:hidden top-[50%] left-[50%] -translate-y-2/4 -translate-x-2/4'>
-                            <Image src={button}/>
+                           <Image src={buttons}/>
                         </div>
                         <Image className='w-[100%] sm:hidden ' src={img}/>
                         
@@ -28,7 +29,7 @@ function Sec1() {
                     </div>
                     <div className='overflow-hidden rounded-[40px] relative sm:w-[100%] w-full mx-auto text-center sm:block hidden'>
                         <div className='absolute  top-[50%] left-[50%] -translate-y-2/4 -translate-x-2/4'>
-                            <Image src={button}/>
+                            <Image src={buttons}/>
                         </div>
                         <Image className='w-[80%] ' src={img}/>
 
